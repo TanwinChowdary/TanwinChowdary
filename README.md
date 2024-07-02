@@ -1,4 +1,5 @@
 👋 Hello, I'm Tanwin Chowdary (@Tanwin2001)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwin2001&label=Profile%20views&color=0e75b6&style=flat" alt="tanwin2001" /> </p>
 🎓 Background
 I hold a Master’s degree in Artificial Intelligence from the University at Buffalo, SUNY, where I specialized in Machine Learning, Big Data Analytics, and Computer Vision. My undergraduate degree is in Computer Science from SRM University AP, India.
 
