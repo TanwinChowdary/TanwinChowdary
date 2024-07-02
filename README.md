@@ -12,6 +12,8 @@ I am keen on collaborating on projects that focus on data analysis, developing i
 🤝 Collaboration
 I'm looking for opportunities to collaborate on meaningful projects that leverage advanced analytics and AI. My project experience includes optimizing data processes at JerseySTEM.org, managing forest fire simulations using deep reinforcement learning, and enhancing autonomous vehicle navigation systems.
 
+👨‍💻 All of my projects are available at [https://tanwinchowdarygunturu.framer.website/](https://tanwinchowdarygunturu.framer.website/)
+
 📫 Contact Me
 Email: gtanwinchowdary@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanwin-chowdary/) | [GitHub](https://github.com/Tanwin2001)
 
