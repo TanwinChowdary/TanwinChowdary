@@ -15,7 +15,7 @@ I'm looking for opportunities to collaborate on meaningful projects that leverag
 👨‍💻 All of my projects are available at [https://tanwinchowdarygunturu.framer.website/](https://tanwinchowdarygunturu.framer.website/)
 
 📫 Contact Me
-Email: gtanwinchowdary@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanwin-chowdary/) | [GitHub](https://github.com/Tanwin2001)
+Email: gtanwinchowdary@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanwin-chowdary/) | [GitHub](https://github.com/TanwinChowdary)
 
 ⚡ Fun Fact
 I secured second place in the AWS Deep Racer competition at the University at Buffalo, which highlighted my proficiency in machine learning.
